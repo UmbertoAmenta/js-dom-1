@@ -1,0 +1,22 @@
+/* RESET */
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+/* BODY */
+#bulb {
+    text-align: center;
+    margin: 0 auto;
+}
+
+#bulb > img {
+    width: auto;
+    height: 60vh;
+}
+
+button {
+    padding: 10px;
+    border-radius: 30px;
+}
